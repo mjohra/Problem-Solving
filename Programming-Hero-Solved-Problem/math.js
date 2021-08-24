@@ -6,7 +6,7 @@ const myNumber=6.686875;
 //const output=Math.floor(myNumber);
 //const output=Math.round(myNumber);
 
-//const output=Math.random();
-const output=Math.random()*10;
+const output=Math.random(myNumber);
+const output2=Math.random()*10;
 const rounded=Math.floor(output);
-console.log(rounded);
+console.log(output);
