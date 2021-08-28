@@ -2,6 +2,7 @@ const numbers = [5, 13, 7, 41, 30, 5, 2, 19];
 const bigNumberS=numbers.filter(number=>number>20);
 
 const smallNumbers = numbers.filter(number => number < 10);
+
 // console.log(smallNumbers);
 
 const products = [
@@ -23,6 +24,8 @@ console.log(whiteItem);
 //filter-----returns array
 condition fullfil=return full array
 condition not fullfil-return empty array  */
+
+
 //find------returns element
 /* 
 condition fullfil=return full element
